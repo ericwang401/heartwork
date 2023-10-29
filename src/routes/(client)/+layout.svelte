@@ -2,6 +2,6 @@
     import ContentContainer from '$lib/components/ContentContainer.svelte'
 </script>
 
-<ContentContainer class='mt-4'>
+<ContentContainer>
     <slot />
 </ContentContainer>
